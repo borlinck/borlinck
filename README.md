@@ -13,8 +13,7 @@
   <img width="28%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borlinck&layout=compact&hide_border=true&title_color=4495ff&text_color=4495ff&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=borlinck&bg_color=0d0d0d&color=4495ff&line=4c70ff&point=007fff&area=3b7eff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Gabriel's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=borlinck&bg_color=0d0d0d&color=4495ff&line=4c70ff&point=007fff&area=3b7eff&hide_border=true&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
