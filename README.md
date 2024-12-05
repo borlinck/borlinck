@@ -6,7 +6,11 @@
   <a href="https://linkedin.com/in/gabrielborlinck" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=borlinck&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
 </div>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=borlinck&show_icons=true&count_private=true&hide_border=true&title_color=4495ff&icon_color=4495ff&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Borlinck github stats" /> 
