@@ -11,6 +11,11 @@
 
 </div>
 
+<div align="center">
+
+  ![snake gif](https://github.com/borlinck/borlinck/blob/output/github-snake-dark.svg)
+
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=borlinck&show_icons=true&count_private=true&hide_border=true&title_color=4495ff&icon_color=4495ff&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Borlinck github stats" /> 
